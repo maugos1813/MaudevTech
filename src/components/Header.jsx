@@ -23,13 +23,13 @@ export default function Header() {
         Lanza tu página web con impacto
         </h1>
         <p className="max-w-xl mx-auto text-lg drop-shadow-sm my-[50px]">
-        En <strong>Maudev</strong> creamos páginas web modernas, veloces y enfocadas en resultados. Transforma tu idea en una presencia online profesional que cautive a tus clientes desde el primer clic.
+        En <strong>MaudevTech</strong> creamos páginas web modernas, veloces y enfocadas en resultados. Transforma tu idea en una presencia online profesional que cautive a tus clientes desde el primer clic.
         </p>
         <a
           href="#contacto"
           className="px-6 py-3 font-semibold text-blue-900 transition bg-yellow-400 rounded hover:bg-yellow-300 "
         >
-           Quiero mi página web
+           ¡Quiero mi página web!
         </a>
       </div>
     </header>

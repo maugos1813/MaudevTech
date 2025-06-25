@@ -6,7 +6,7 @@ export default function About() {
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="mb-6 text-3xl font-semibold text-gray-800">Quiénes somos</h2>
         <p className="text-lg text-gray-600 leading-relaxed">
-          En <strong>Maudev</strong> creemos que tu sitio web no debería ser solo una presencia digital, sino una herramienta que impulse tu negocio.  
+          En <strong>MaudevTech</strong> creemos que tu sitio web no debería ser solo una presencia digital, sino una herramienta que impulse tu negocio.  
           Nos dedicamos a crear páginas web modernas, funcionales y adaptadas a tus objetivos.
           <br /><br />
           Aunque cada proyecto es único, hay algo que nunca cambia: nuestro compromiso con la excelencia.  
