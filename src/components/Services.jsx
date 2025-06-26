@@ -4,20 +4,20 @@ import React from "react";
 // Datos de cada servicio (título, descripción, imagen y enlace)
 const services = [
   {
-    title: "Nivel 1 – Página Básica",
-    desc: "Una web one-page moderna, perfecta para presencia rápida en línea.",
+    title: "Nivel 1 – Presencia Básica",
+    desc: "Landing page profesional rápida (ideal para negocios que inician).",
     img: "/capn1.png",
     href: "https://maudevn1.netlify.app", // ⇦ demo real 
   },
   {
-    title: "Nivel 2 – Página Profesional",
-    desc: "Sitio multi-página con diseño a medida y optimización SEO inicial.",
+    title: "Nivel 2 – Página Informativa",
+    desc: "Sitio web informativo completo con galería, contacto, secciones personalizadas.",
     img: "/capn2.png",
     href: " https://maudevn2.netlify.app", // ⇦ demo real
   },
   {
-    title: "Nivel 3 – Página Premium",
-    desc: "Desarrollo avanzado, animaciones, CMS y funcionalidades personalizadas.",
+    title: "Nivel 3 – Web Avanzada y Escalable",
+    desc: "Sitio web administrable, listo para crecer con el negocio.",
     img: "/capn3.png",
     href: "https://maudevn3.netlify.app", // ⇦ demo real
   },
