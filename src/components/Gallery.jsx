@@ -47,7 +47,7 @@ export default function Gallery() {
     <section id="galeria" className="px-6 py-24 bg-white">
       <div className="max-w-5xl mx-auto text-center">
         <h2 className="mb-10 text-3xl font-semibold text-gray-800">
-          Galería de Proyectos Realizados
+          Galería de Proyectos Realizados - Personalizados
         </h2>
 
         {/* Grid de miniaturas */}
